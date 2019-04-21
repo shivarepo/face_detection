@@ -19,14 +19,10 @@ Attendance is marked only when all the faces moves out of the camera. This is to
 When Unknown face is found in a frame, it is saved in a video file (mp4). To make the video file with manageable size, a new video file is created for every minute. (only when Unknown face is detected. Else no video file is created). At a regular interval, these video files can be archived and then feed as input for the encoding program to detected better next time.
 
 # Voice greetings:
-I have added voice based greetings once a face is recognized and attendance is marked. You need to install mpg321 on your mac to get this working. <br>
-`$brew install mpg321`
-<br> and uncomment the below lines in trackerutil.py
-    #self.tts = gTTS(text='Good morning. Welcome '+ student_name, lang='en')
-    #self.tts.save("good.mp3")
-    #os.system("mpg321 good.mp3")
-# Note: 
-I have not tested this for multiple scenarios. So, this is still underdevelopment
+I have added voice based greetings once a face is recognized and attendance is marked. You need to install google-cloud-texttospeech and pygame on your computer to get this working. <br>
+`pip install --upgrade google-cloud-texttospeech` <br>
+ `pip install pygame`
+
 
 Some Python libraries that are required are,
 `pip install face-recognition`; 
