@@ -22,7 +22,8 @@ When Unknown face is found in a frame, it is saved in a video file (mp4). To mak
 I have added voice based greetings once a face is recognized and attendance is marked. You need to install google-cloud-texttospeech and pygame on your computer to get this working. <br>
 `pip install --upgrade google-cloud-texttospeech` <br>
  `pip install pygame`
-
+Add environmental variable to access google cloud text-to-speech service.
+Ex - `GOOGLE_APPLICATION_CREDENTIALS=/Users/xxx/gcloud-credentials/abc_c98770b93432b2ac.json`
 
 Some Python libraries that are required are,
 `pip install face-recognition`; 
