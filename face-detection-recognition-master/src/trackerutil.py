@@ -270,7 +270,11 @@ class TrackerAndRegisterUtil():
         response = client.synthesize_speech(input_text, voice, audio_config)
 
         # The response's audio_content is binary.
-        path = self.mp3_path + name + '/welcome.mp3'
+        directory = self.mp3_path + name
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+        path = directory + '/welcome.mp3'
+
         with open(path, 'wb') as out:
             out.write(response.audio_content)
             print('Audio content written to file "output.mp3"')
