@@ -1,0 +1,330 @@
+2019-04-29 14:36:56,690:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 14:36:57,532:DetectFace:DEBUG:already registered 13748_uma, 6.01581163608709
+2019-04-29 14:37:01,551:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 14:37:04,212:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 14:41:36,864:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 14:41:37,667:DetectFace:DEBUG:already registered 13748_uma, 6.016642664333065
+2019-04-29 14:41:43,599:DetectFace:DEBUG:already registered 13748_uma, 5.337175879159978
+2019-04-29 14:41:46,322:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 14:43:08,611:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 14:43:09,015:DetectFace:DEBUG:already registered 13748_uma, 6.083091878441845
+2019-04-29 14:43:14,664:DetectFace:DEBUG:already registered 13748_uma, 5.4799803321068445
+2019-04-29 14:43:22,914:DetectFace:DEBUG:already registered 13748_uma, 5.480522651045178
+2019-04-29 14:43:25,584:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 14:43:36,515:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 14:43:36,937:DetectFace:DEBUG:already registered 13748_uma, 6.0099898394222135
+2019-04-29 14:43:44,918:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 14:43:46,936:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 14:43:47,346:DetectFace:DEBUG:already registered 13748_uma, 6.017469102767937
+2019-04-29 14:51:15,329:DetectFace:DEBUG:registered 13749_sivi
+2019-04-29 14:51:15,732:DetectFace:DEBUG:already registered 13749_sivi, 6.296831926823513
+2019-04-29 14:51:20,437:DetectFace:DEBUG:already registered 13749_sivi, 5.000900500305133
+2019-04-29 14:51:23,190:DetectFace:DEBUG:already registered 13749_sivi, 5.197296452645148
+2019-04-29 14:51:25,378:DetectFace:DEBUG:marking attendance 13749_sivi
+2019-04-29 14:51:51,404:DetectFace:DEBUG:registered 13749_sivi
+2019-04-29 14:51:51,813:DetectFace:DEBUG:already registered 13749_sivi, 6.174641979614677
+2019-04-29 14:52:01,254:DetectFace:DEBUG:marking attendance 13749_sivi
+2019-04-29 14:52:24,642:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 14:52:25,035:DetectFace:DEBUG:already registered 13748_uma, 6.3771730958456505
+2019-04-29 14:52:29,647:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 14:53:10,436:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 14:53:17,748:DetectFace:DEBUG:already registered 13748_uma, 6.239670533190075
+2019-04-29 14:53:19,995:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 17:29:21,158:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:29:21,557:DetectFace:DEBUG:already registered 13748_uma, 6.451055468789875
+2019-04-29 17:29:24,357:DetectFace:DEBUG:already registered 13748_uma, 5.329618350427895
+2019-04-29 17:29:27,619:DetectFace:DEBUG:already registered 13748_uma, 5.334607279269576
+2019-04-29 17:29:30,403:DetectFace:DEBUG:already registered 13748_uma, 5.700222597905814
+2019-04-29 17:29:33,099:DetectFace:DEBUG:already registered 13748_uma, 5.411721486070167
+2019-04-29 17:29:35,799:DetectFace:DEBUG:already registered 13748_uma, 5.5559720419879906
+2019-04-29 17:29:39,247:DetectFace:DEBUG:already registered 13748_uma, 5.55430998549604
+2019-04-29 17:29:42,055:DetectFace:DEBUG:already registered 13748_uma, 5.3420865426152995
+2019-04-29 17:29:49,387:DetectFace:DEBUG:already registered 13748_uma, 5.41421182057421
+2019-04-29 17:29:52,795:DetectFace:DEBUG:already registered 13748_uma, 5.411721486070167
+2019-04-29 17:29:55,468:DetectFace:DEBUG:already registered 13748_uma, 5.410058509789607
+2019-04-29 17:29:58,129:DetectFace:DEBUG:already registered 13748_uma, 5.7723478758647255
+2019-04-29 17:30:03,126:DetectFace:DEBUG:already registered 13748_uma, 5.265807953871785
+2019-04-29 17:30:05,796:DetectFace:DEBUG:already registered 13748_uma, 5.339596208111256
+2019-04-29 17:30:08,547:DetectFace:DEBUG:already registered 13748_uma, 5.411721486070168
+2019-04-29 17:30:11,356:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:30:14,120:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:30:16,818:DetectFace:DEBUG:already registered 13748_uma, 5.628097319946902
+2019-04-29 17:30:19,595:DetectFace:DEBUG:already registered 13748_uma, 5.5559720419879906
+2019-04-29 17:30:22,391:DetectFace:DEBUG:already registered 13748_uma, 5.3395962081112565
+2019-04-29 17:30:25,064:DetectFace:DEBUG:already registered 13748_uma, 5.5559720419879906
+2019-04-29 17:30:30,033:DetectFace:DEBUG:already registered 13748_uma, 5.55680123674471
+2019-04-29 17:30:32,823:DetectFace:DEBUG:already registered 13748_uma, 5.27245159916043
+2019-04-29 17:30:35,504:DetectFace:DEBUG:already registered 13748_uma, 5.626435263454952
+2019-04-29 17:30:38,529:DetectFace:DEBUG:already registered 13748_uma, 5.7723478758647255
+2019-04-29 17:30:41,216:DetectFace:DEBUG:already registered 13748_uma, 5.7723478758647255
+2019-04-29 17:30:43,906:DetectFace:DEBUG:already registered 13748_uma, 5.7723478758647255
+2019-04-29 17:30:46,567:DetectFace:DEBUG:already registered 13748_uma, 5.701052709407161
+2019-04-29 17:30:49,251:DetectFace:DEBUG:already registered 13748_uma, 5.5559720419879906
+2019-04-29 17:30:52,662:DetectFace:DEBUG:already registered 13748_uma, 5.483846764029079
+2019-04-29 17:30:55,341:DetectFace:DEBUG:already registered 13748_uma, 5.3395962081112565
+2019-04-29 17:30:58,079:DetectFace:DEBUG:already registered 13748_uma, 5.411721486070168
+2019-04-29 17:31:00,898:DetectFace:DEBUG:already registered 13748_uma, 5.48384676402908
+2019-04-29 17:31:03,697:DetectFace:DEBUG:already registered 13748_uma, 5.3395962081112565
+2019-04-29 17:31:06,456:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:31:09,265:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:31:12,138:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:31:14,992:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:31:23,567:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:31:26,443:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:31:30,501:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:31:33,748:DetectFace:DEBUG:already registered 13748_uma, 5.339596208111256
+2019-04-29 17:31:36,662:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:31:39,510:DetectFace:DEBUG:already registered 13748_uma, 5.264146817168444
+2019-04-29 17:31:42,318:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:31:45,131:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:31:47,869:DetectFace:DEBUG:already registered 13748_uma, 5.2658088736603945
+2019-04-29 17:31:50,679:DetectFace:DEBUG:already registered 13748_uma, 5.2658088736603945
+2019-04-29 17:31:53,550:DetectFace:DEBUG:already registered 13748_uma, 5.262484760676494
+2019-04-29 17:32:34,342:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:32:34,739:DetectFace:DEBUG:already registered 13748_uma, 6.024947446325051
+2019-04-29 17:32:37,433:DetectFace:DEBUG:already registered 13748_uma, 5.413381709072863
+2019-04-29 17:32:40,177:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:32:43,037:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:32:45,790:DetectFace:DEBUG:already registered 13748_uma, 5.483846764029079
+2019-04-29 17:32:48,575:DetectFace:DEBUG:already registered 13748_uma, 5.411721486070168
+2019-04-29 17:32:51,279:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:32:53,963:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:32:56,696:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:32:59,437:DetectFace:DEBUG:already registered 13748_uma, 5.342086542615299
+2019-04-29 17:33:02,214:DetectFace:DEBUG:already registered 13748_uma, 5.264977845414419
+2019-04-29 17:33:04,988:DetectFace:DEBUG:already registered 13748_uma, 5.263315788922469
+2019-04-29 17:33:07,771:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:33:10,466:DetectFace:DEBUG:already registered 13748_uma, 5.407566344840292
+2019-04-29 17:33:14,205:DetectFace:DEBUG:already registered 13748_uma, 5.628097319946902
+2019-04-29 17:34:10,110:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:34:10,495:DetectFace:DEBUG:already registered 13748_uma, 6.596969000988258
+2019-04-29 17:34:13,236:DetectFace:DEBUG:already registered 13748_uma, 5.483846764029079
+2019-04-29 17:35:13,430:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:35:13,825:DetectFace:DEBUG:already registered 13748_uma, 6.020796888818313
+2019-04-29 17:35:16,572:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:35:19,364:DetectFace:DEBUG:already registered 13748_uma, 5.26663990190637
+2019-04-29 17:35:22,254:DetectFace:DEBUG:already registered 13748_uma, 5.2658088736603945
+2019-04-29 17:38:25,162:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:40:11,372:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:40:11,767:DetectFace:DEBUG:already registered 13748_uma, 6.092092055275877
+2019-04-29 17:40:14,457:DetectFace:DEBUG:already registered 13748_uma, 5.410059429578218
+2019-04-29 17:40:17,121:DetectFace:DEBUG:already registered 13748_uma, 5.409228401332243
+2019-04-29 17:40:19,809:DetectFace:DEBUG:already registered 13748_uma, 5.26663990190637
+2019-04-29 17:40:22,578:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:40:25,376:DetectFace:DEBUG:already registered 13748_uma, 5.262484760676494
+2019-04-29 17:44:02,833:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:44:35,767:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:44:36,198:DetectFace:DEBUG:already registered 13748_uma, 6.01581163608709
+2019-04-29 17:44:38,992:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:44:41,737:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:45:01,967:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:45:02,402:DetectFace:DEBUG:already registered 13748_uma, 6.0133185513491645
+2019-04-29 17:45:05,127:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:45:07,787:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:45:11,549:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:45:14,217:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:45:16,873:DetectFace:DEBUG:already registered 13748_uma, 5.407566344840292
+2019-04-29 17:45:22,305:DetectFace:DEBUG:already registered 13748_uma, 5.334610038635406
+2019-04-29 17:45:25,087:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:45:45,475:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:45:45,901:DetectFace:DEBUG:already registered 13748_uma, 6.016642664333065
+2019-04-29 17:45:48,691:DetectFace:DEBUG:already registered 13748_uma, 5.26663990190637
+2019-04-29 17:45:51,473:DetectFace:DEBUG:already registered 13748_uma, 5.262484760676494
+2019-04-29 17:45:54,192:DetectFace:DEBUG:already registered 13748_uma, 5.264976011925164
+2019-04-29 17:45:57,310:DetectFace:DEBUG:already registered 13748_uma, 5.2641459004238165
+2019-04-29 17:46:16,349:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:46:16,764:DetectFace:DEBUG:already registered 13748_uma, 6.0133185513491645
+2019-04-29 17:46:19,574:DetectFace:DEBUG:already registered 13748_uma, 5.264146817168444
+2019-04-29 17:46:22,311:DetectFace:DEBUG:already registered 13748_uma, 5.264146817168444
+2019-04-29 17:46:25,076:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:46:27,792:DetectFace:DEBUG:already registered 13748_uma, 5.337103123373331
+2019-04-29 17:46:32,020:DetectFace:DEBUG:already registered 13748_uma, 5.2658088736603945
+2019-04-29 17:46:34,840:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:46:48,958:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:46:49,388:DetectFace:DEBUG:already registered 13748_uma, 6.019966777316966
+2019-04-29 17:46:52,105:DetectFace:DEBUG:already registered 13748_uma, 5.26663990190637
+2019-04-29 17:46:54,890:DetectFace:DEBUG:already registered 13748_uma, 5.483015735783104
+2019-04-29 17:46:57,573:DetectFace:DEBUG:already registered 13748_uma, 5.555141013742015
+2019-04-29 17:47:01,504:DetectFace:DEBUG:already registered 13748_uma, 5.264146817168444
+2019-04-29 17:47:18,770:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:47:19,170:DetectFace:DEBUG:already registered 13748_uma, 6.019966777316966
+2019-04-29 17:47:22,005:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:47:24,674:DetectFace:DEBUG:already registered 13748_uma, 5.202360520486472
+2019-04-29 17:47:27,354:DetectFace:DEBUG:already registered 13748_uma, 5.2658088736603945
+2019-04-29 17:47:30,108:DetectFace:DEBUG:already registered 13748_uma, 5.264977845414419
+2019-04-29 17:47:32,915:DetectFace:DEBUG:already registered 13748_uma, 5.26663990190637
+2019-04-29 17:47:35,683:DetectFace:DEBUG:already registered 13748_uma, 5.267470930152345
+2019-04-29 17:47:38,409:DetectFace:DEBUG:already registered 13748_uma, 5.264977845414419
+2019-04-29 17:47:41,150:DetectFace:DEBUG:already registered 13748_uma, 5.263315788922469
+2019-04-29 17:47:43,920:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:47:46,687:DetectFace:DEBUG:already registered 13748_uma, 5.264146817168444
+2019-04-29 17:47:49,405:DetectFace:DEBUG:already registered 13748_uma, 5.26663990190637
+2019-04-29 17:47:52,187:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:47:54,995:DetectFace:DEBUG:already registered 13748_uma, 5.480522651045178
+2019-04-29 17:47:57,856:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:48:00,627:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:48:03,432:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:48:06,596:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:48:09,391:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:48:12,242:DetectFace:DEBUG:already registered 13748_uma, 5.262484760676494
+2019-04-29 17:48:15,089:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:48:17,975:DetectFace:DEBUG:already registered 13748_uma, 5.26663990190637
+2019-04-29 17:48:21,210:DetectFace:DEBUG:already registered 13748_uma, 5.264977845414419
+2019-04-29 17:48:24,393:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:48:28,045:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:48:30,851:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:48:33,648:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:48:36,441:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:48:39,184:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:48:42,106:DetectFace:DEBUG:already registered 13748_uma, 5.261653732430519
+2019-04-29 17:48:44,936:DetectFace:DEBUG:already registered 13748_uma, 5.264977845414419
+2019-04-29 17:48:47,716:DetectFace:DEBUG:already registered 13748_uma, 5.262483840887883
+2019-04-29 17:48:50,580:DetectFace:DEBUG:already registered 13748_uma, 5.26663990190637
+2019-04-29 17:48:53,456:DetectFace:DEBUG:registered 13750_yogi
+2019-04-29 17:48:53,459:DetectFace:DEBUG:already registered 13748_uma, 5.270791376157734
+2019-04-29 17:52:02,079:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:52:18,187:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:53:04,840:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:53:04,850:DetectFace:DEBUG:registered 13750_yogi
+2019-04-29 17:58:17,676:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 17:58:20,022:DetectFace:DEBUG:already registered 13748_uma, 6.5954524560696015
+2019-04-29 17:58:23,580:DetectFace:DEBUG:already registered 13748_uma, 5.770831330946069
+2019-04-29 17:58:26,323:DetectFace:DEBUG:already registered 13748_uma, 5.7723478758647255
+2019-04-29 17:58:29,123:DetectFace:DEBUG:already registered 13748_uma, 5.7723478758647255
+2019-04-29 17:58:31,871:DetectFace:DEBUG:already registered 13748_uma, 5.7723478758647255
+2019-04-29 18:17:47,191:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:17:47,569:DetectFace:DEBUG:already registered 13748_uma, 6.321489605165034
+2019-04-29 18:17:51,605:DetectFace:DEBUG:already registered 13748_uma, 5.423558834269671
+2019-04-29 18:17:56,887:DetectFace:DEBUG:already registered 13748_uma, 5.340498027151504
+2019-04-29 18:18:04,758:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 18:18:27,798:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:18:28,185:DetectFace:DEBUG:already registered 13748_uma, 6.329022233775113
+2019-04-29 18:18:32,403:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 18:19:21,480:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:19:21,871:DetectFace:DEBUG:already registered 13748_uma, 6.005913757644179
+2019-04-29 18:19:24,256:DetectFace:DEBUG:already registered 13748_uma, 5.104031509020907
+2019-04-29 18:19:27,407:DetectFace:DEBUG:already registered 13748_uma, 5.338488646440479
+2019-04-29 18:19:32,969:DetectFace:DEBUG:already registered 13748_uma, 5.104031509020907
+2019-04-29 18:19:35,379:DetectFace:DEBUG:already registered 13748_uma, 5.100998419183594
+2019-04-29 18:19:40,061:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 18:24:58,687:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:25:00,278:DetectFace:DEBUG:already registered 13748_uma, 5.930036725576927
+2019-04-29 18:25:09,880:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 18:25:17,434:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:25:17,819:DetectFace:DEBUG:already registered 13748_uma, 6.598372314532268
+2019-04-29 18:25:22,911:DetectFace:DEBUG:already registered 13748_uma, 5.770831330946069
+2019-04-29 18:25:26,438:DetectFace:DEBUG:already registered 13748_uma, 5.84222146104555
+2019-04-29 18:25:28,827:DetectFace:DEBUG:already registered 13748_uma, 5.412485565800615
+2019-04-29 18:25:31,227:DetectFace:DEBUG:already registered 13748_uma, 5.175554427873457
+2019-04-29 18:25:34,048:DetectFace:DEBUG:already registered 13748_uma, 5.7647616585356465
+2019-04-29 18:25:36,848:DetectFace:DEBUG:already registered 13748_uma, 5.761727171604015
+2019-04-29 18:25:39,635:DetectFace:DEBUG:already registered 13748_uma, 5.761727171604015
+2019-04-29 18:25:42,406:DetectFace:DEBUG:already registered 13748_uma, 5.761727171604015
+2019-04-29 18:25:45,190:DetectFace:DEBUG:already registered 13748_uma, 5.761727171604015
+2019-04-29 18:25:53,059:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:25:53,459:DetectFace:DEBUG:already registered 13748_uma, 6.587866937287681
+2019-04-29 18:25:56,226:DetectFace:DEBUG:already registered 13748_uma, 5.763243714588529
+2019-04-29 18:26:04,163:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 18:26:09,081:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:26:09,484:DetectFace:DEBUG:already registered 13748_uma, 6.518629016351338
+2019-04-29 18:26:13,403:DetectFace:DEBUG:already registered 13748_uma, 5.7655192305136715
+2019-04-29 18:26:16,573:DetectFace:DEBUG:already registered 13748_uma, 5.019117579387834
+2019-04-29 18:26:19,367:DetectFace:DEBUG:already registered 13748_uma, 5.769313388933095
+2019-04-29 18:26:22,164:DetectFace:DEBUG:already registered 13748_uma, 5.7723478758647255
+2019-04-29 18:26:24,974:DetectFace:DEBUG:already registered 13748_uma, 5.850500255004582
+2019-04-29 18:26:28,126:DetectFace:DEBUG:already registered 13748_uma, 5.7723478758647255
+2019-04-29 18:26:31,339:DetectFace:DEBUG:already registered 13748_uma, 5.760967500116225
+2019-04-29 18:35:17,855:DetectFace:DEBUG:registered 13750_yogi
+2019-04-29 18:35:18,252:DetectFace:DEBUG:already registered 13750_yogi, 6.018304720825015
+2019-04-29 18:35:23,294:DetectFace:DEBUG:marking attendance 13750_yogi
+2019-04-29 18:35:25,529:DetectFace:DEBUG:registered 13750_yogi
+2019-04-29 18:35:25,919:DetectFace:DEBUG:already registered 13750_yogi, 6.159231163758938
+2019-04-29 18:35:28,276:DetectFace:DEBUG:already registered 13750_yogi, 5.184951011636499
+2019-04-29 18:35:34,060:DetectFace:DEBUG:marking attendance 13750_yogi
+2019-04-29 18:35:50,077:DetectFace:DEBUG:registered 13750_yogi
+2019-04-29 18:35:50,887:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:35:51,309:DetectFace:DEBUG:already registered 13748_uma, 6.166232677371488
+2019-04-29 18:35:51,309:DetectFace:DEBUG:already registered 13750_yogi, 6.2567160414263885
+2019-04-29 18:35:54,200:DetectFace:DEBUG:already registered 13748_uma, 5.7693147860274125
+2019-04-29 18:35:57,758:DetectFace:DEBUG:already registered 13748_uma, 5.769313388933093
+2019-04-29 18:36:02,032:DetectFace:DEBUG:already registered 13748_uma, 5.769314087480255
+2019-04-29 18:36:04,845:DetectFace:DEBUG:already registered 13748_uma, 5.769313388933094
+2019-04-29 18:36:06,511:DetectFace:DEBUG:already registered 13750_yogi, 5.285788755197115
+2019-04-29 18:36:07,739:DetectFace:DEBUG:already registered 13748_uma, 5.761727171604015
+2019-04-29 18:36:10,605:DetectFace:DEBUG:already registered 13748_uma, 5.763244415069831
+2019-04-29 18:36:11,418:DetectFace:DEBUG:already registered 13750_yogi, 5.771589603405398
+2019-04-29 18:36:13,419:DetectFace:DEBUG:already registered 13748_uma, 5.76248474358204
+2019-04-29 18:36:18,521:DetectFace:DEBUG:already registered 13748_uma, 5.552106526810384
+2019-04-29 18:36:21,616:DetectFace:DEBUG:marking attendance 13750_yogi
+2019-04-29 18:36:24,571:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 18:36:27,534:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:36:27,927:DetectFace:DEBUG:already registered 13748_uma, 5.844496276489392
+2019-04-29 18:36:31,768:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 18:36:44,814:DetectFace:DEBUG:registered 13750_yogi
+2019-04-29 18:36:44,814:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:36:45,232:DetectFace:DEBUG:already registered 13750_yogi, 6.418382312364395
+2019-04-29 18:36:45,233:DetectFace:DEBUG:already registered 13748_uma, 6.5209754059175875
+2019-04-29 18:36:48,107:DetectFace:DEBUG:already registered 13748_uma, 5.7723478758647255
+2019-04-29 18:36:49,719:DetectFace:DEBUG:already registered 13750_yogi, 5.420793299877795
+2019-04-29 18:36:52,091:DetectFace:DEBUG:already registered 13750_yogi, 5.420793299877795
+2019-04-29 18:36:55,563:DetectFace:DEBUG:already registered 13748_uma, 5.024987175693774
+2019-04-29 18:36:57,915:DetectFace:DEBUG:already registered 13748_uma, 5.024228204687286
+2019-04-29 18:36:59,838:DetectFace:DEBUG:marking attendance 13750_yogi
+2019-04-29 18:37:06,397:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 18:37:13,514:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:37:13,923:DetectFace:DEBUG:already registered 13748_uma, 5.848157813789194
+2019-04-29 18:37:17,816:DetectFace:DEBUG:already registered 13748_uma, 5.027262691618917
+2019-04-29 18:37:21,003:DetectFace:DEBUG:already registered 13748_uma, 5.696358479822526
+2019-04-29 18:37:23,778:DetectFace:DEBUG:already registered 13748_uma, 5.770073058486741
+2019-04-29 18:55:55,047:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:55:55,458:DetectFace:DEBUG:already registered 13748_uma, 6.595451757522443
+2019-04-29 18:56:05,623:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 18:56:09,774:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:56:10,181:DetectFace:DEBUG:already registered 13748_uma, 6.5954524560696015
+2019-04-29 18:56:15,252:DetectFace:DEBUG:already registered 13748_uma, 5.7723478758647255
+2019-04-29 18:56:19,561:DetectFace:DEBUG:already registered 13748_uma, 5.026571175597293
+2019-04-29 18:56:22,812:DetectFace:DEBUG:already registered 13748_uma, 5.076266111305218
+2019-04-29 18:56:25,282:DetectFace:DEBUG:registered 13750_yogi
+2019-04-29 18:56:25,689:DetectFace:DEBUG:already registered 13750_yogi, 5.711055877268837
+2019-04-29 18:56:25,689:DetectFace:DEBUG:already registered 13748_uma, 5.358171329847525
+2019-04-29 18:56:28,514:DetectFace:DEBUG:already registered 13748_uma, 5.33261035351781
+2019-04-29 18:56:32,725:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 18:56:34,925:DetectFace:DEBUG:marking attendance 13750_yogi
+2019-04-29 18:56:37,548:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 18:56:37,956:DetectFace:DEBUG:already registered 13748_uma, 6.077288050589463
+2019-04-29 18:56:42,294:DetectFace:DEBUG:already registered 13748_uma, 5.770831330946069
+2019-04-29 19:10:08,166:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 19:10:10,092:DetectFace:DEBUG:already registered 13748_uma, 6.018303804080388
+2019-04-29 19:10:15,513:DetectFace:DEBUG:already registered 13748_uma, 5.3356572366657
+2019-04-29 19:10:17,740:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 19:10:30,481:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 19:10:33,115:DetectFace:DEBUG:already registered 13748_uma, 6.0141468232732915
+2019-04-29 19:10:42,369:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 19:10:49,176:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 19:10:50,661:DetectFace:DEBUG:already registered 13748_uma, 5.963737158918308
+2019-04-29 19:10:57,707:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 19:11:17,430:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 19:11:18,219:DetectFace:DEBUG:already registered 13748_uma, 6.241491417752679
+2019-04-29 19:11:22,859:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 19:11:33,721:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 19:11:34,105:DetectFace:DEBUG:already registered 13748_uma, 6.30584598698899
+2019-04-29 19:14:04,035:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 19:14:04,428:DetectFace:DEBUG:already registered 13748_uma, 6.019966777316966
+2019-04-29 19:14:08,711:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 19:14:16,658:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 19:14:32,194:DetectFace:DEBUG:already registered 13748_uma, 5.830664508380091
+2019-04-29 19:14:36,439:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 19:14:44,820:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 19:14:45,223:DetectFace:DEBUG:already registered 13748_uma, 5.889747791474477
+2019-04-29 19:25:08,704:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 19:25:09,515:DetectFace:DEBUG:already registered 13748_uma, 6.234752393743769
+2019-04-29 19:25:12,982:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 19:27:59,224:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 19:27:59,611:DetectFace:DEBUG:already registered 13748_uma, 6.0191357490709905
+2019-04-29 19:28:03,867:DetectFace:DEBUG:marking attendance 13748_uma
+2019-04-29 19:28:15,190:DetectFace:DEBUG:registered 13748_uma
+2019-04-29 19:28:15,645:DetectFace:DEBUG:already registered 13748_uma, 6.018303801036405
+2019-04-29 19:28:21,446:DetectFace:DEBUG:already registered 13748_uma, 5.199789537383073
+2019-04-29 19:28:26,246:DetectFace:DEBUG:already registered 13748_uma, 5.26663990190637
+2019-04-29 19:28:33,127:DetectFace:DEBUG:already registered 13748_uma, 5.200697547249894
+2019-04-29 19:28:35,589:DetectFace:DEBUG:marking attendance 13748_uma
