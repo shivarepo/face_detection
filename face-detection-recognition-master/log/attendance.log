@@ -1,0 +1,6 @@
+2019-04-30 20:55:57,851:PushAttendance:DEBUG:'http://providencecnr.in/api/readerentry?$99999&99&13748&16122017143623*' Exception occured - marking attendance call: name 'endpoint' is not defined
+2019-04-30 21:36:27,834:PushAttendance:DEBUG:'http://providencecnr.in/api/readerentry?rfiddata=1_13748_2019-04-28 20:59:24' Exception occured - marking attendance call: name 'endpoint' is not defined
+2019-04-30 21:39:21,637:PushAttendance:DEBUG:'http://providencecnr.in/api/readerentry?rfiddata=1_13748_2019-04-28_20:59:24' Exception occured - marking attendance call: name 'endpoint' is not defined
+2019-04-30 21:41:52,031:urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): providencecnr.in:80
+2019-04-30 21:41:53,377:urllib3.connectionpool:DEBUG:http://providencecnr.in:80 "GET /api/readerentry?rfiddata=1_13748_2019-04-28_20:59:24 HTTP/1.1" 200 30
+2019-04-30 21:41:53,380:PushAttendance:DEBUG:'http://providencecnr.in/api/readerentry?rfiddata=1_13748_2019-04-28_20:59:24' Exception occured - marking attendance call: name 'student_id' is not defined
